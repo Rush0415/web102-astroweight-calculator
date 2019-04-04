@@ -1,0 +1,1 @@
+Astro-Weight-culator is a simple application that will help you calculate your weight on other planets.
